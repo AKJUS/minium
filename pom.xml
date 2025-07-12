@@ -63,24 +63,24 @@
 		<dynjs.version>0.3.1</dynjs.version>
 		<cucumber.version>1.2.5</cucumber.version>
 		<!-- we cannot upgrade to 20141113 because it's java 8 only -->
-		<json.version>20140107</json.version>
+		<json.version>20231013</json.version>
 		<sikulix.version>1.1.0-SNAPSHOT</sikulix.version>
-		<guava.version>26.0-jre</guava.version>
+		<guava.version>32.0.0-jre</guava.version>
 		<guava-retrying.version>2.0.0</guava-retrying.version>
-		<commons-compress.version>1.18</commons-compress.version>
-		<commons-lang3.version>3.4</commons-lang3.version>
-		<commons-io.version>2.6</commons-io.version>
+		<commons-compress.version>1.26.0</commons-compress.version>
+		<commons-lang3.version>3.18.0</commons-lang3.version>
+		<commons-io.version>2.14.0</commons-io.version>
 		<httpcore.version>4.4.1</httpcore.version>
-		<httpclient.version>4.5</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 		<jackson.version>2.9.3</jackson.version>
 		<slf4j.version>1.7.18</slf4j.version>
 		<args4j.version>2.33</args4j.version>
 		<freemarker.version>2.3.23</freemarker.version>
-		<jsoup.version>1.8.3</jsoup.version>
+		<jsoup.version>1.15.3</jsoup.version>
 		<powermock.version>1.6.1</powermock.version>
 
-		<poi.version>3.13</poi.version>
-		<poi-ooxml.version>3.13</poi-ooxml.version>
+		<poi.version>4.1.1</poi.version>
+		<poi-ooxml.version>5.4.0</poi-ooxml.version>
 		<commons-csv.version>1.2</commons-csv.version>
 	</properties>
 
